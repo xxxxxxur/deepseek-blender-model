@@ -1,4 +1,4 @@
-# DeepSeek Pure · Blender 模型
+# DeepSeek · Blender 模型
 
 `deepseek_pure.blend` 是 DeepSeek 角色的 Blender 源文件，包含角色网格、材质、骨骼绑定和打包的角色贴图。可用 Blender 4.5 打开。工程中的外部参考图片和视频需要各自的源文件。
 
