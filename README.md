@@ -2,6 +2,8 @@
 
 `deepseek_pure.blend` 是 DeepSeek 角色的 Blender 源文件，包含角色网格、材质、骨骼绑定和打包的角色贴图。可用 Blender 4.5 打开。工程中的外部参考图片和视频需要各自的源文件。
 
+模型使用rigify插件绑定
+
 该文件通过 Git LFS 存储。若克隆后只看到指针文件，请安装 Git LFS，并在仓库目录执行 `git lfs pull`。
 
 ## 角色形象许可
